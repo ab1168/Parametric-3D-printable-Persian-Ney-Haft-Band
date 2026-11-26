@@ -1,0 +1,9 @@
+*.stl
+!stl/.gitkeep
+*.3mf
+*.gcode
+*.png
+!images/*.png
+!images/*.jpg
+.DS_Store
+Thumbs.db
