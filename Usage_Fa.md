@@ -43,6 +43,7 @@
 | `joint_clearance` | `0.25` | لقی از هر طرف (اگر سفت بود افزایش دهید) |
 | `snap_fit` | `true` | فعال/غیرفعال کردن قفل ضربه‌ای |
 | `snap_slots` | `true` | فعال/غیرفعال کردن شیارهای انعطاف نری |
+<img width="1020" height="462" alt="image" src="https://github.com/user-attachments/assets/fa4c9525-f058-4933-9a0c-066d5fab3d54" />
 
 ### سوراخ‌های انگشتی (کوک سل)
 
