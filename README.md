@@ -156,6 +156,8 @@ All parameters are at the top of the `.scad` file, grouped by section. The most 
 3. If a joint is too tight, lightly sand the male connector. If too loose, add a thin layer of Teflon tape or increase `snap_height` in the code and reprint.
 4. Verify the bore is continuous by looking through the assembled instrument toward a light source.
 
+<img width="1020" height="462" alt="image" src="https://github.com/user-attachments/assets/1cbd6a6c-29d0-4308-96cc-30a87de1e189" />
+
 ---
 
 ## Tuning & Calibration
