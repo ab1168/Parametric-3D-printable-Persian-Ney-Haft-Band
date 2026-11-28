@@ -1,5 +1,5 @@
 # Persian Ney Haft-Band — Sol Tuning (3D-Printable)
-[ Switch to Presian/فارسی ](https://github.com/ab1168/Parametric-3D-printable-Persian-Ney-Haft-Band/blob/master/Usage_Fa.md)
+[ Switch to Presian/فارسی ](https://github.com/ab1168/Parametric-3D-printable-Persian-Ney-Haft-Band/blob/master/README.fa.md)
 
 A parametric, seven-piece, 3D-printable **Persian Ney Haft-Band** in the key of **Sol (G)**, designed in OpenSCAD.
 
